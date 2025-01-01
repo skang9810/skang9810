@@ -1,3 +1,6 @@
+![IMG_1638](https://github.com/user-attachments/assets/883c1166-3a5a-4bdd-b3a4-ad671d97dd54)
+
+
 ## 🌟 About Me
 - 💻 **Front-end Dev** | 🎨 **Creative mind** | 🌍 **Love to travel**
 - 🚀 I’m currently working on **Migration of DangDangSalon from JS to Typescript**.
