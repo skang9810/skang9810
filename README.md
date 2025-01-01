@@ -16,7 +16,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=skang9810&theme=tokyonight)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=skang9810&theme=onestar&row=2&column=3)
 
 ## 🚀 Projects
